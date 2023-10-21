@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Hoodie with Logo	</title>
-	<atom:link href="http://localhost/product/hoodie-with-logo/feed/?simply_static_page=4500" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/product/hoodie-with-logo/feed/?simply_static_page=5864" rel="self" type="application/rss+xml" />
 	<link>/product/hoodie-with-logo/</link>
 	<description>Just another ecommerce </description>
 	<lastBuildDate>Wed, 13 Sep 2023 01:51:19 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 </channel>
 </rss>

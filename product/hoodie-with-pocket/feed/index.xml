@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Hoodie with Pocket	</title>
-	<atom:link href="http://localhost/product/hoodie-with-pocket/feed/?simply_static_page=4457" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/product/hoodie-with-pocket/feed/?simply_static_page=5902" rel="self" type="application/rss+xml" />
 	<link>/product/hoodie-with-pocket/</link>
 	<description>Just another ecommerce </description>
 	<lastBuildDate>Thu, 14 Sep 2023 01:07:50 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 </channel>
 </rss>
