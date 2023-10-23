@@ -9,7 +9,7 @@
 
 <channel>
 	<title>OneStopShop</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=5360" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/feed/?simply_static_page=6703" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Just another ecommerce </description>
 	<lastBuildDate>Tue, 05 Sep 2023 01:30:25 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/09/store-1919713_640-red-100x100.png</url>
